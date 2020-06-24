@@ -1,0 +1,3 @@
+model-name: cicdtest_dev
+experiment-path: /Shared/cicd
+cloud: AWS
